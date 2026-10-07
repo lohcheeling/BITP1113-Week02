@@ -2,7 +2,5 @@
 
 BITP 1113 Programming Technique - Week 02 lab
 
-
-
 LOH CHEE LING,B032610196,1BITC S2
 
